@@ -18,7 +18,7 @@ This dataset contains images of Air Pollution for different cities in India and 
 
 The dataset is divided into two folders: Combined_Dataset and Country_wise_Dataset.
 
-Total number of images: 12,240
+Total number of image dataset: 12,240
 
 ***Combined dataset:***
 
@@ -53,7 +53,7 @@ Such as,
 
 Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, and AQI_Class
 
-**Air Quality Index Class**
+**Air Quality Index (AQI) Class**
 
 There are a total of six classes of Air Pollution, which we represent in our dataset as follows:
 
