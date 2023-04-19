@@ -26,14 +26,6 @@ The combined dataset folder contains two subfolders.
 1. All_img: This subfolder contains all the collected images from all AQI classes.
 2. IND_and_NEP: This subfolder contains six different subfolders representing six different classes of AQI.
 
-**Air Quality Index Class**
-1. a_Good
-2. b_Moderate
-3. c_Unhealthy_for_Sensitive_Groups
-4. d_Unhealthy
-5. e_Very_Unhealthy
-6. f_Severe
-
 The csv file in this folder contains all the data and its parameters.
 It is labeled as
 
@@ -61,6 +53,18 @@ Such as,
 
 Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, and AQI_Class
 
+**Air Quality Index Class**
+
+There are a total of six classes of Air Pollution, which we represent in our dataset as follows:
+
+1. a_Good
+2. b_Moderate
+3. c_Unhealthy_for_Sensitive_Groups
+4. d_Unhealthy
+5. e_Very_Unhealthy
+6. f_Severe
+
+
 ////////////////////////////////////////////////////////////////////////////////
 
 
@@ -87,7 +91,7 @@ resulting from the use of this dataset.
 
 ///////////////////////////////////////////////////////////////////////////
 
-***Data Distribution for Each AQI Class***
+***Collected Image Data Distribution for Each AQI Class***
 ![Data Distribution](https://user-images.githubusercontent.com/111570911/232965276-6c7e5726-308c-478d-a9cd-3654de8a3835.png)
 
 
