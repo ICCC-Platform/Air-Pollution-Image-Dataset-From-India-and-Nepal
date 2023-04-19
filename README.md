@@ -114,7 +114,9 @@ Inside each country folder, you will find subfolders representing different citi
 Each city folder contains a CSV file that lists the AQI values and other parameters for the city.
 
 5. You can use this dataset to train machine learning models to predict AQI for different cities.
-You can also use it for research on air pollution in different cities.
+You can also use it for research on air pollution in different cities. For reference to use this dataset you can visit this link: 
+
+https://www.kaggle.com/code/momo88/vgg16-translearning-for-image-based-aqi-estimation
 
 6. If you use this dataset for any purpose, please cite it as the source of the data in any publications or presentations,
 resulting from the use of this dataset.
