@@ -8,16 +8,28 @@ Total number of image dataset: 12,240
 
 Image Size: 224*224
 
-**Air Quality Index (AQI) Class**
+**Air Quality Index (AQI) Class and its defination used in the dataset.**
 
 There are a total of six classes of Air Pollution, which we represent in our dataset as follows:
 
-1. a_Good
-2. b_Moderate
-3. c_Unhealthy_for_Sensitive_Groups
-4. d_Unhealthy
-5. e_Very_Unhealthy
-6. f_Severe
+1. Good (0-50): Air quality is considered satisfactory and air pollution poses little or no risk.
+
+2. Moderate (51-100): Air quality is acceptable; however, for some pollutants, there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution.
+
+3. Unhealthy for Sensitive Groups (101-150): Members of sensitive groups may experience health effects, but the general public is unlikely to be affected.
+
+4. Unhealthy (151-200): Some members of the general public may experience health effects; members of sensitive groups may experience more serious health effects.
+
+5. Very Unhealthy (201-300): Health alert: The risk of health effects is increased for everyone.
+
+6. Hazardous (301-500): Health warning of emergency conditions: Everyone is more likely to be affected.
+
+Reference: 
+
+https://airtw.epa.gov.tw/ENG/Information/Standard/AirQualityIndicator.aspx
+
+
+![image](https://user-images.githubusercontent.com/111570911/233039078-bc9d5120-d857-48f2-8132-6259ebf68f4b.png)
 
 **Cities of India**
 
