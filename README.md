@@ -1,7 +1,7 @@
-# India-and-Nepal-Air-Quality-Index-AQI-Image-Dataset
+# India-and-Nepal-Air-Pollution-Image-Dataset
 
 ***Introduction:***
-This dataset contains images of Air Quality Index (AQI) for different cities of India and Nepal.
+This dataset contains images of Air Pollution for different cities of India and Nepal.
 
 **Cities of India**
 
@@ -26,8 +26,16 @@ The combined dataset folder contains two subfolders
 1. All_img: This Subfolder contains all the collected image from all AQI classes.
 2. IND_and_NEP: This Subfolder contains six different sub subfolders representing six different classes of AQI. 
 
+**Air Quality Index Class**
+1. a_Good
+2. b_Moderate
+3. c_unhealthy for Sensitive Groups
+4. d_Unhealthy
+5. e_Very_Unhealthy
+6. f_Severe
+
 The csv file in this folder contains all the data and its parameters collected. 
-Such as,
+It is labelled as,
 
 Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, and AQI_Class
 
