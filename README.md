@@ -61,7 +61,7 @@ Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, 
 
 This folder contains two subfolders representing the countries from which the dataset was collected.
 
-1. *India:*
+1. **India:**
 This subfolder contains the subfolder representing the names of all cities from where data were collected.
 Each subfolder of cities contains folders representing the data collected for each respective AQI class, as well as a csv file.
 which contains the details of each image, like we mentioned above.
@@ -70,7 +70,7 @@ Such as,
 Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, and AQI_Class
 
 
-2. Nepal: 
+2. **Nepal:**
 We managed to collect the image dataset from Nepal.
 This subfolder contains the subfolder representing the name of the city from where data were collected.
 This subfolder of the city contains folders representing the data collected for each AQI class and also a csv file.
@@ -83,15 +83,15 @@ Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, 
 
 **Dataset Collection Process:**
 
-1. Visit the site: The first step in collecting the air pollution data was to personally visit the site. This involved physically going to the location and capturing images and videos of the area.
+**1. Visit the site:** The first step in collecting the air pollution data was to personally visit the site. This involved physically going to the location and capturing images and videos of the area.
 
-2. Note current parameters: While visiting the site, various parameters related to air pollution were noted. These included measurements of PM2.5, PM10, NO2, SO2, CO, etc. These parameters were noted by referring to publicly available data sources such as the Central Pollution Control Board (CPCB) website. For India we used https://app.cpcbccr.com/AQI_India/  and for Nepal we used: https://www.tomorrow.io/weather/NP/4/Biratnagar/079711/hourly/
+**2. Note current parameters:** While visiting the site, various parameters related to air pollution were noted. These included measurements of PM2.5, PM10, NO2, SO2, CO, etc. These parameters were noted by referring to publicly available data sources such as the Central Pollution Control Board (CPCB) website. For India we used https://app.cpcbccr.com/AQI_India/  and for Nepal we used: https://www.tomorrow.io/weather/NP/4/Biratnagar/079711/hourly/
 
-3. Preprocess images: Once the images and videos were captured, they were preprocessed to remove any images that were blurry, overexposed, or had other quality issues. Only the images that met the desired quality criteria were selected for further analysis.
+**3. Preprocess images:** Once the images and videos were captured, they were preprocessed to remove any images that were blurry, overexposed, or had other quality issues. Only the images that met the desired quality criteria were selected for further analysis.
 
-4. Extract frames from videos: In addition to the images, videos were also captured at the site. These videos were processed to extract frames that were suitable for further analysis. Frames that were too blurry or otherwise of low quality were discarded.
+**4. Extract frames from videos:** In addition to the images, videos were also captured at the site. These videos were processed to extract frames that were suitable for further analysis. Frames that were too blurry or otherwise of low quality were discarded.
 
-5. Log data: Finally, all the data collected during the site visit, including the images, videos, and air pollution parameters, were logged in a structured format. 
+**5. Log data:** Finally, all the data collected during the site visit, including the images, videos, and air pollution parameters, were logged in a structured format. 
 
 //////////////////////////////////////////////////////////////////////////////
 
