@@ -1,7 +1,20 @@
-# India-and-Nepal-Air-Quality-Index-AQI-Dataset
+# India-and-Nepal-Air-Quality-Index-AQI-Image-Dataset
 
 ***Introduction:***
 This dataset contains images of Air Quality Index (AQI) for different cities of India and Nepal.
+
+**Cities of India**
+
+1. ITO, Delhi
+2. Dimapur, Nagaland
+3. Spice Garden, Bengaluru
+4. Knowlede Park III, Greater Noida
+5. New Ind Town, Faridabad
+6. Borivali East, Mumbai
+7. Oragadam, Tamil Nadu
+
+**City of Nepal**
+1. Biratnagar
 
 The dataset is divided into two folders- Combined_Dataset and Country_wise_Dataset.
 
@@ -42,6 +55,7 @@ Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, 
 
 ////////////////////////////////////////////////////////////////////////////////
 
+
 ****Instructions on how to use the AQI image dataset:****
 
 1. Download the dataset from Kaggle and extract the zip file to a folder of your choice.
@@ -64,6 +78,25 @@ You can also use it for research on air pollution in different cities.
 resulting from the use of this dataset.
 
 ///////////////////////////////////////////////////////////////////////////
+
 ***Data Distribution of each AQI class***
 ![Data Distribution](https://user-images.githubusercontent.com/111570911/232965276-6c7e5726-308c-478d-a9cd-3654de8a3835.png)
 
+
+/////////////////////////////////////////////////////////////////////
+
+**Contributers**
+1. Adarsh Rouniyar
+2. Sapdo Utomo
+3. Dr. John A
+4. Dr. Pao-Ann Hsiung
+
+
+If you have any query, please do contact us.
+1. Adarsh Rouniyar
+
+Email: adarsh@csie.io
+
+2. Dr. John A
+
+Email: johnmtech@gmail.com 
