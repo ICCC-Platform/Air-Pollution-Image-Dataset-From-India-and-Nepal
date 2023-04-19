@@ -71,7 +71,8 @@ Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, 
 ****Instructions on how to use the AQI image dataset:****
 
 1. Download the dataset from Kaggle and extract the zip file to a folder of your choice. Please Visit this link to download the Dataset:
-
+https://doi.org/10.34740/KAGGLE/DS/3152196
+https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal
 
 2. The dataset is divided into two folders: the Combined_Dataset and Country_wise_Dataset. 
 Each folder contains subfolders and CSV files.
@@ -101,6 +102,23 @@ resulting from the use of this dataset.
 
 
 /////////////////////////////////////////////////////////////////////
+
+**Citation Request**
+
+APA:
+
+Adarsh Rouniyar, Sapdo Utomo, John A, &amp; Pao-Ann Hsiung. (2023). <i>Air Pollution Image Dataset from India and Nepal</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/3152196
+
+Bibtex:
+
+ @misc{adarsh rouniyar_sapdo utomo_john a_pao-ann hsiung_2023,
+	title={Air Pollution Image Dataset from India and Nepal},
+	url={https://www.kaggle.com/ds/3152196},
+	DOI={10.34740/KAGGLE/DS/3152196},
+	publisher={Kaggle},
+	author={Adarsh Rouniyar and Sapdo Utomo and John A and Pao-Ann Hsiung},
+	year={2023}
+}
 
 **Contributors**
 1. Adarsh Rouniyar
