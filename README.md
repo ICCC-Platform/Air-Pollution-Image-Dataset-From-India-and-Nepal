@@ -6,6 +6,8 @@ The dataset is divided into two folders: Combined_Dataset and Country_wise_Datas
 
 Total number of image dataset: 12,240
 
+Image Size: 224, 224
+
 **Air Quality Index (AQI) Class**
 
 There are a total of six classes of Air Pollution, which we represent in our dataset as follows:
