@@ -95,15 +95,7 @@ resulting from the use of this dataset.
 
 ***8. Also star our repository if you like it. Starring our repository is a way for people to show their support and appreciation for our work.***
 
-///////////////////////////////////////////////////////////////////////////
-
-**Collected Image Data Distribution for Each AQI Class**
-![Data Distribution](https://user-images.githubusercontent.com/111570911/232965276-6c7e5726-308c-478d-a9cd-3654de8a3835.png)
-
-
-/////////////////////////////////////////////////////////////////////
-
-**Citation Request**
+**Citation Request: You can cite our dataset as follows**
 
 APA:
 
@@ -119,6 +111,16 @@ Bibtex:
 	author={Adarsh Rouniyar and Sapdo Utomo and John A and Pao-Ann Hsiung},
 	year={2023}
 }
+
+///////////////////////////////////////////////////////////////////////////
+
+**Collected Image Data Distribution for Each AQI Class**
+![Data Distribution](https://user-images.githubusercontent.com/111570911/232965276-6c7e5726-308c-478d-a9cd-3654de8a3835.png)
+
+
+/////////////////////////////////////////////////////////////////////
+
+
 
 **Contributors**
 1. Adarsh Rouniyar
