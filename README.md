@@ -61,7 +61,7 @@ Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, 
 
 This folder contains two subfolders representing the countries from which the dataset was collected.
 
-1. India: 
+1. *India:*
 This subfolder contains the subfolder representing the names of all cities from where data were collected.
 Each subfolder of cities contains folders representing the data collected for each respective AQI class, as well as a csv file.
 which contains the details of each image, like we mentioned above.
