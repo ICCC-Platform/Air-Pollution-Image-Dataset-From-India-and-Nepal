@@ -22,7 +22,7 @@ There are a total of six classes of Air Pollution, which we represent in our dat
 1. ITO, Delhi
 2. Dimapur, Nagaland
 3. Spice Garden, Bengaluru
-4. Knowlede Park III, Greater Noida
+4. Knowledge  Park III, Greater Noida
 5. New Ind Town, Faridabad
 6. Borivali East, Mumbai
 7. Oragadam, Tamil Nadu
@@ -102,7 +102,7 @@ resulting from the use of this dataset.
 
 /////////////////////////////////////////////////////////////////////
 
-**Contributers**
+**Contributors**
 1. Adarsh Rouniyar
 2. Sapdo Utomo
 3. Dr. John A.
