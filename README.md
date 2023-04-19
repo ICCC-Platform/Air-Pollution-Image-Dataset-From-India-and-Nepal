@@ -74,6 +74,7 @@ Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, 
 
 1. Download the dataset from Kaggle and extract the zip file to a folder of your choice. Please Visit this link to download the Dataset:
 https://doi.org/10.34740/KAGGLE/DS/3152196
+
 https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal
 
 2. The dataset is divided into two folders: the Combined_Dataset and Country_wise_Dataset. 
