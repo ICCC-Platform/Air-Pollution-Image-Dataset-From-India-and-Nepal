@@ -1,6 +1,6 @@
-# India-and-Nepal-Air-Pollution-Image-Dataset
+# Air-Pollution-Image-Dataset-From-India-and-Nepal
 
-***Introduction:***
+**Introduction:**
 This dataset contains images of Air Pollution for different cities in India and Nepal.
 
 **Cities of India**
@@ -20,7 +20,7 @@ The dataset is divided into two folders: Combined_Dataset and Country_wise_Datas
 
 Total number of image dataset: 12,240
 
-***Combined dataset:***
+**Combined dataset:**
 
 The combined dataset folder contains two subfolders.
 1. All_img: This subfolder contains all the collected images from all AQI classes.
@@ -31,7 +31,7 @@ It is labeled as
 
 Location, Filename, Year, Month, Day, Hour, AQI, PM2.5, PM10, O3, CO, SO2, NO2, and AQI_Class
 
-***Country_wise_Dataset:***
+**Country_wise_Dataset:**
 
 This folder contains two subfolders representing the countries from which the dataset was collected.
 
@@ -70,7 +70,8 @@ There are a total of six classes of Air Pollution, which we represent in our dat
 
 ****Instructions on how to use the AQI image dataset:****
 
-1. Download the dataset from Kaggle and extract the zip file to a folder of your choice.
+1. Download the dataset from Kaggle and extract the zip file to a folder of your choice. Please Visit this link to download the Dataset:
+
 
 2. The dataset is divided into two folders: the Combined_Dataset and Country_wise_Dataset. 
 Each folder contains subfolders and CSV files.
@@ -86,12 +87,16 @@ Each city folder contains a CSV file that lists the AQI values and other paramet
 5. You can use this dataset to train machine learning models to predict AQI for different cities.
 You can also use it for research on air pollution in different cities.
 
-6. If you use this dataset for any purpose, please cite it as the source of the data in any publications or presentations.
+6. If you use this dataset for any purpose, please cite it as the source of the data in any publications or presentations,
 resulting from the use of this dataset.
+
+***7. If you are visiting our GitHub Repository please fork our repository if you find it useful. Forking our repository allows you to create your own copy of our repository, which you can modify and use as you wish.***
+
+***8. Also star our repository if you like it. Starring our repository is a way for people to show their support and appreciation for our work.***
 
 ///////////////////////////////////////////////////////////////////////////
 
-***Collected Image Data Distribution for Each AQI Class***
+**Collected Image Data Distribution for Each AQI Class**
 ![Data Distribution](https://user-images.githubusercontent.com/111570911/232965276-6c7e5726-308c-478d-a9cd-3654de8a3835.png)
 
 
