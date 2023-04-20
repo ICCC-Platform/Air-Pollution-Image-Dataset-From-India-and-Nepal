@@ -28,7 +28,6 @@ Reference:
 
 https://airtw.epa.gov.tw/ENG/Information/Standard/AirQualityIndicator.aspx
 
-
 ![image](https://user-images.githubusercontent.com/111570911/233039078-bc9d5120-d857-48f2-8132-6259ebf68f4b.png)
 
 **Cities of India**
