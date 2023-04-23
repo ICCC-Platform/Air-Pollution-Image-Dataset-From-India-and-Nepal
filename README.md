@@ -1,5 +1,12 @@
 # Air-Pollution-Image-Dataset-From-India-and-Nepal
 
+# **Please Fork and Star our work by visiting our GitHub Repository before using or downloading our dataset**
+# 1. Forking our repository allows you to create your own copy of our repository, which you can modify and use as you wish.
+# 2. Starring our repository is a way for people to show their support and appreciation for our work.
+# https://github.com/ICCC-Platform/Air-Pollution-Image-Dataset-From-India-and-Nepal
+
+
+
 **Introduction:**
 This dataset contains images of Air Pollution for different cities in India and Nepal.
 The dataset is divided into two folders: Combined_Dataset and Country_wise_Dataset.
@@ -119,10 +126,6 @@ https://www.kaggle.com/code/momo88/vgg16-translearning-for-image-based-aqi-estim
 
 6. If you use this dataset for any purpose, please cite it as the source of the data in any publications or presentations,
 resulting from the use of this dataset.
-
-***7. If you are visiting our GitHub Repository please fork our repository if you find it useful. Forking our repository allows you to create your own copy of our repository, which you can modify and use as you wish.***
-
-***8. Also star our repository if you like it. Starring our repository is a way for people to show their support and appreciation for our work.***
 
 **Citation Request: You can cite our dataset as follows**
 
