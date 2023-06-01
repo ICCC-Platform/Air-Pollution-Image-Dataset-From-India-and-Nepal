@@ -148,7 +148,8 @@ Bibtex:
 ///////////////////////////////////////////////////////////////////////////
 
 **Collected Image Data Distribution for Each AQI Class**
-![Data Distribution](https://user-images.githubusercontent.com/111570911/232965276-6c7e5726-308c-478d-a9cd-3654de8a3835.png)
+![Data Distribution](https://github.com/ICCC-Platform/Air-Pollution-Image-Dataset-From-India-and-Nepal/assets/111570911/9824eda9-ca14-42f8-ad22-2d6b43577c06)
+
 
 
 ///////////////////////////////////////////////////////////////////////////
