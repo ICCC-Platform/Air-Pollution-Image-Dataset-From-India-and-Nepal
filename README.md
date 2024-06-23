@@ -129,14 +129,45 @@ https://www.kaggle.com/code/momo88/vgg16-translearning-for-image-based-aqi-estim
 resulting from the use of this dataset.
 
 **Citation Request: You can cite our dataset as follows**
-
 APA:
 
-Adarsh Rouniyar, Sapdo Utomo, John A, &amp; Pao-Ann Hsiung. (2023). <i>Air Pollution Image Dataset from India and Nepal</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/3152196
+Utomo, S.; Rouniyar, A.; Hsu, H.-C.; Hsiung, P.-A. Federated Adversarial Training Strategies for Achieving Privacy and Security in Sustainable Smart City Applications. Future Internet 2023, 15, 371. https://doi.org/10.3390/fi15110371
+
+Sapdo Utomo, Adarsh Rouniyar, Guo Hao Jiang, Chun Hao Chang, Kai Chun Tang, Hsiu-Chun Hsu, and Pao-Ann Hsiung. 2023. Eff-AQI: An Efficient CNN-Based Model for Air Pollution Estimation: A Study Case in India. In Proceedings of the 2023 ACM Conference on Information Technology for Social Good (GoodIT '23). Association for Computing Machinery, New York, NY, USA, 165–172. https://doi.org/10.1145/3582515.3609531
+
+Adarsh Rouniyar, Sapdo Utomo, John A, & Pao-Ann Hsiung. (2023). Air Pollution Image Dataset from India and Nepal [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/3152196
 
 Bibtex:
 
- @misc{adarsh rouniyar_sapdo utomo_john a_pao-ann hsiung_2023,
+@article{utomo2023federated, 
+	title={Federated Adversarial Training Strategies for Achieving Privacy and Security in Sustainable Smart City Applications}, 
+ 	author={Utomo, Sapdo and Rouniyar, Adarsh and Hsu, Hsiu-Chun and Hsiung, Pao-Ann}, 
+  	journal={Future Internet}, 
+   	volume={15}, 
+    	number={11}, 
+     	pages={371}, 
+      	year={2023}, 
+       	publisher={MDPI} 
+}
+
+@inproceedings{utomo2023effaqi, 
+	author = {Utomo, Sapdo and Rouniyar, Adarsh and Jiang, Guo Hao and Chang, Chun Hao and Tang, Kai Chun and Hsu, Hsiu-Chun and Hsiung, Pao-Ann}, 
+ 	title = {Eff-AQI: An Efficient CNN-Based Model for Air Pollution Estimation: A Study Case in India}, 
+  	year = {2023}, 
+   	isbn = {9798400701160}, 
+    	publisher = {Association for Computing Machinery}, 
+     	address = {New York, NY, USA}, 
+      	url = {https://doi.org/10.1145/3582515.3609531}, 
+       	doi = {10.1145/3582515.3609531}, 
+	booktitle = {Proceedings of the 2023 ACM Conference on Information Technology for Social Good}, 
+ 	pages = {165–172}, 
+  	numpages = {8}, 
+   	keywords = {efficient model, image-based AQI estimation, novel dataset, air pollution estimation, air pollution in India}, 
+    	location = {Lisbon, Portugal}, 
+     	series = {GoodIT '23} 
+}
+
+@misc{rouniyar2023air,
 	title={Air Pollution Image Dataset from India and Nepal},
 	url={https://www.kaggle.com/ds/3152196},
 	DOI={10.34740/KAGGLE/DS/3152196},
