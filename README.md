@@ -129,6 +129,7 @@ https://www.kaggle.com/code/momo88/vgg16-translearning-for-image-based-aqi-estim
 resulting from the use of this dataset.
 
 **Citation Request: You can cite our dataset as follows**
+
 APA:
 
 Utomo, S.; Rouniyar, A.; Hsu, H.-C.; Hsiung, P.-A. Federated Adversarial Training Strategies for Achieving Privacy and Security in Sustainable Smart City Applications. Future Internet 2023, 15, 371. https://doi.org/10.3390/fi15110371
